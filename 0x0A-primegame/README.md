@@ -45,9 +45,3 @@ print("Winner: {}".format(isWinner(5, [2, 5, 1, 4, 3])))
 carrie@ubuntu:~/0x0A-primegame$ ./main_0.py
 Winner: Ben
 ```
-
-
-## :pencil: **Author**
-### :man: Yidnekachew Bantrga
-- [Github](https://github.com/Yidne21)
-- [Linkedin](https://www.linkedin.com/in/yidnekachew-bantrga-801376234/)
